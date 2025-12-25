@@ -2,9 +2,9 @@
 Story Bible/Canon
 
 **RULE**
-If it is not in Canon.md or explicitly marked "Locked", then it is not canon. Anything marked as "Brainstorm" can be referenced but is not canon.
+Everything written in these files should be considered Canon unless it is in the Brainstorm or UnderReview folders. 
 
 ---
 
-## Core
-- [Canon Ledger](Canon.md)
+## Contents
+- 
