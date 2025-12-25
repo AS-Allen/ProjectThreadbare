@@ -7,4 +7,6 @@ Everything written in these files should be considered Canon unless it is in the
 ---
 
 ## Contents
-- 
+
+### Places
+- [Maetri](Maetri.md)
